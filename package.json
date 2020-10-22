@@ -1,0 +1,21 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "Bad Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bad",
+    "Bank"
+  ],
+  "author": "afra@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "superagent": "^6.1.0"
+  }
+}

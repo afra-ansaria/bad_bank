@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    {
+      "name": "test",
+      "email": "test@mit.edu",
+      "balance": 0,
+      "password": "password",
+      "transactions": []
+    }
+  ]
+}
